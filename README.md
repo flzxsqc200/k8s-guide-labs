@@ -41,7 +41,8 @@ all good
 ```
 $ make setup
 ```
-
+k8s 网络模型介绍
+https://www.tkng.io/ 
 6. Configure the cluster
 
 ```
